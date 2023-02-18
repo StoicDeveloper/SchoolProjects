@@ -1,0 +1,595 @@
+Simulation begins...
+starting simulation.
+Time: 0, part 0 arrives at the main station
+Time: 1, part 0 arrives at the main station
+Time: 2, part 0 arrives at the main station
+Time: 3, part 0 arrives at the main station
+Time: 4, part 0 arrives at the main station
+Time: 5, part 0 arrives at the main station
+Time: 6, part 0 arrives at the main station
+Time: 7, part 0 arrives at the main station
+Time: 8, part 0 arrives at the main station
+Time: 9, part 0 arrives at the main station
+Time: 10, part 0 arrives at the main station
+Time: 11, part 0 arrives at the main station
+Time: 12, part 0 arrives at the main station
+Time: 13, part 0 arrives at the main station
+Time: 14, part 0 arrives at the main station
+Time: 15, part 0 arrives at the main station
+Time: 16, part 0 arrives at the main station
+Time: 17, part 0 arrives at the main station
+Time: 18, part 0 arrives at the main station
+Time: 19, part 0 arrives at the main station
+Time: 20, part 0 arrives at the main station
+Time: 21, part 0 arrives at the main station
+Time: 22, part 0 arrives at the main station
+Time: 23, part 0 arrives at the main station
+Time: 24, part 0 arrives at the main station
+Time: 25, part 0 arrives at the main station
+Time: 26, part 0 arrives at the main station
+Time: 27, part 0 arrives at the main station
+Time: 28, part 0 arrives at the main station
+Time: 29, part 0 arrives at the main station
+Time: 30, part 0 arrives at the main station
+Time: 31, part 0 arrives at the main station
+Time: 32, part 0 arrives at the main station
+Time: 33, part 0 arrives at the main station
+Time: 34, part 0 arrives at the main station
+Time: 35, part 0 arrives at the main station
+Time: 36, part 0 arrives at the main station
+Time: 37, part 0 arrives at the main station
+Time: 38, part 0 arrives at the main station
+Time: 39, part 0 arrives at the main station
+Time: 40, part 0 arrives at the main station
+Time: 41, part 0 arrives at the main station
+Time: 42, part 0 arrives at the main station
+Time: 43, part 0 arrives at the main station
+Time: 44, part 0 arrives at the main station
+Time: 45, part 0 arrives at the main station
+Time: 46, part 0 arrives at the main station
+Time: 47, part 0 arrives at the main station
+Time: 48, part 0 arrives at the main station
+Time: 49, part 0 arrives at the main station
+Time: 50, part 2 arrives at the finishing station
+Time: 50, part 1 arrives at the main station
+Time: 50, assembly starts at main station
+Time: 51, part 1 arrives at the main station
+Time: 51, part 2 arrives at the finishing station
+Time: 60, assembly finished at main assembly station
+Time: 60, assembly starts at main station
+Time: 60, product arrives at finishing station
+Time: 60, assembly starts at finishing station
+Time: 65, assembly finished at finishing station
+Time: 70, assembly finished at main assembly station
+Time: 70, product arrives at finishing station
+Time: 70, assembly starts at finishing station
+Time: 75, assembly finished at finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 100, part 2 arrives at the finishing station
+Time: 200, part 1 arrives at the main station
+Time: 200, assembly starts at main station
+Time: 201, part 1 arrives at the main station
+Time: 202, part 1 arrives at the main station
+Time: 203, part 1 arrives at the main station
+Time: 204, part 1 arrives at the main station
+Time: 205, part 1 arrives at the main station
+Time: 206, part 1 arrives at the main station
+Time: 207, part 1 arrives at the main station
+Time: 208, part 1 arrives at the main station
+Time: 209, part 1 arrives at the main station
+Time: 210, assembly finished at main assembly station
+Time: 210, assembly starts at main station
+Time: 210, product arrives at finishing station
+Time: 210, assembly starts at finishing station
+Time: 210, part 1 arrives at the main station
+Time: 211, part 1 arrives at the main station
+Time: 212, part 1 arrives at the main station
+Time: 213, part 1 arrives at the main station
+Time: 214, part 1 arrives at the main station
+Time: 215, assembly finished at finishing station
+Time: 215, part 1 arrives at the main station
+Time: 216, part 1 arrives at the main station
+Time: 217, part 1 arrives at the main station
+Time: 218, part 1 arrives at the main station
+Time: 219, part 1 arrives at the main station
+Time: 220, assembly finished at main assembly station
+Time: 220, assembly starts at main station
+Time: 220, product arrives at finishing station
+Time: 220, assembly starts at finishing station
+Time: 220, part 1 arrives at the main station
+Time: 221, part 1 arrives at the main station
+Time: 222, part 1 arrives at the main station
+Time: 223, part 1 arrives at the main station
+Time: 224, part 1 arrives at the main station
+Time: 225, assembly finished at finishing station
+Time: 225, part 1 arrives at the main station
+Time: 226, part 1 arrives at the main station
+Time: 227, part 1 arrives at the main station
+Time: 228, part 1 arrives at the main station
+Time: 229, part 1 arrives at the main station
+Time: 230, assembly finished at main assembly station
+Time: 230, assembly starts at main station
+Time: 230, product arrives at finishing station
+Time: 230, assembly starts at finishing station
+Time: 230, part 1 arrives at the main station
+Time: 231, part 1 arrives at the main station
+Time: 232, part 1 arrives at the main station
+Time: 233, part 1 arrives at the main station
+Time: 234, part 1 arrives at the main station
+Time: 235, assembly finished at finishing station
+Time: 235, part 1 arrives at the main station
+Time: 236, part 1 arrives at the main station
+Time: 237, part 1 arrives at the main station
+Time: 238, part 1 arrives at the main station
+Time: 239, part 1 arrives at the main station
+Time: 240, assembly finished at main assembly station
+Time: 240, assembly starts at main station
+Time: 240, product arrives at finishing station
+Time: 240, assembly starts at finishing station
+Time: 245, assembly finished at finishing station
+Time: 250, assembly finished at main assembly station
+Time: 250, assembly starts at main station
+Time: 250, product arrives at finishing station
+Time: 250, assembly starts at finishing station
+Time: 255, assembly finished at finishing station
+Time: 260, assembly finished at main assembly station
+Time: 260, assembly starts at main station
+Time: 260, product arrives at finishing station
+Time: 260, assembly starts at finishing station
+Time: 265, assembly finished at finishing station
+Time: 270, assembly finished at main assembly station
+Time: 270, assembly starts at main station
+Time: 270, product arrives at finishing station
+Time: 270, assembly starts at finishing station
+Time: 275, assembly finished at finishing station
+Time: 280, assembly finished at main assembly station
+Time: 280, assembly starts at main station
+Time: 280, product arrives at finishing station
+Time: 280, assembly starts at finishing station
+Time: 285, assembly finished at finishing station
+Time: 290, assembly finished at main assembly station
+Time: 290, assembly starts at main station
+Time: 290, product arrives at finishing station
+Time: 290, assembly starts at finishing station
+Time: 295, assembly finished at finishing station
+Time: 300, assembly finished at main assembly station
+Time: 300, assembly starts at main station
+Time: 300, product arrives at finishing station
+Time: 300, assembly starts at finishing station
+Time: 305, assembly finished at finishing station
+Time: 310, assembly finished at main assembly station
+Time: 310, assembly starts at main station
+Time: 310, product arrives at finishing station
+Time: 310, assembly starts at finishing station
+Time: 315, assembly finished at finishing station
+Time: 320, assembly finished at main assembly station
+Time: 320, assembly starts at main station
+Time: 320, product arrives at finishing station
+Time: 320, assembly starts at finishing station
+Time: 325, assembly finished at finishing station
+Time: 330, assembly finished at main assembly station
+Time: 330, assembly starts at main station
+Time: 330, product arrives at finishing station
+Time: 330, assembly starts at finishing station
+Time: 335, assembly finished at finishing station
+Time: 340, assembly finished at main assembly station
+Time: 340, assembly starts at main station
+Time: 340, product arrives at finishing station
+Time: 340, assembly starts at finishing station
+Time: 345, assembly finished at finishing station
+Time: 350, assembly finished at main assembly station
+Time: 350, assembly starts at main station
+Time: 350, product arrives at finishing station
+Time: 350, assembly starts at finishing station
+Time: 355, assembly finished at finishing station
+Time: 360, assembly finished at main assembly station
+Time: 360, assembly starts at main station
+Time: 360, product arrives at finishing station
+Time: 360, assembly starts at finishing station
+Time: 365, assembly finished at finishing station
+Time: 370, assembly finished at main assembly station
+Time: 370, assembly starts at main station
+Time: 370, product arrives at finishing station
+Time: 370, assembly starts at finishing station
+Time: 375, assembly finished at finishing station
+Time: 380, assembly finished at main assembly station
+Time: 380, assembly starts at main station
+Time: 380, product arrives at finishing station
+Time: 380, assembly starts at finishing station
+Time: 385, assembly finished at finishing station
+Time: 390, assembly finished at main assembly station
+Time: 390, assembly starts at main station
+Time: 390, product arrives at finishing station
+Time: 390, assembly starts at finishing station
+Time: 395, assembly finished at finishing station
+Time: 400, assembly finished at main assembly station
+Time: 400, assembly starts at main station
+Time: 400, product arrives at finishing station
+Time: 400, assembly starts at finishing station
+Time: 405, assembly finished at finishing station
+Time: 410, assembly finished at main assembly station
+Time: 410, assembly starts at main station
+Time: 410, product arrives at finishing station
+Time: 410, assembly starts at finishing station
+Time: 415, assembly finished at finishing station
+Time: 420, assembly finished at main assembly station
+Time: 420, assembly starts at main station
+Time: 420, product arrives at finishing station
+Time: 420, assembly starts at finishing station
+Time: 425, assembly finished at finishing station
+Time: 430, assembly finished at main assembly station
+Time: 430, assembly starts at main station
+Time: 430, product arrives at finishing station
+Time: 430, assembly starts at finishing station
+Time: 435, assembly finished at finishing station
+Time: 440, assembly finished at main assembly station
+Time: 440, assembly starts at main station
+Time: 440, product arrives at finishing station
+Time: 440, assembly starts at finishing station
+Time: 445, assembly finished at finishing station
+Time: 450, assembly finished at main assembly station
+Time: 450, assembly starts at main station
+Time: 450, product arrives at finishing station
+Time: 450, assembly starts at finishing station
+Time: 455, assembly finished at finishing station
+Time: 460, assembly finished at main assembly station
+Time: 460, assembly starts at main station
+Time: 460, product arrives at finishing station
+Time: 460, assembly starts at finishing station
+Time: 465, assembly finished at finishing station
+Time: 470, assembly finished at main assembly station
+Time: 470, assembly starts at main station
+Time: 470, product arrives at finishing station
+Time: 470, assembly starts at finishing station
+Time: 475, assembly finished at finishing station
+Time: 480, assembly finished at main assembly station
+Time: 480, assembly starts at main station
+Time: 480, product arrives at finishing station
+Time: 480, assembly starts at finishing station
+Time: 485, assembly finished at finishing station
+Time: 490, assembly finished at main assembly station
+Time: 490, assembly starts at main station
+Time: 490, product arrives at finishing station
+Time: 490, assembly starts at finishing station
+Time: 495, assembly finished at finishing station
+Time: 500, assembly finished at main assembly station
+Time: 500, assembly starts at main station
+Time: 500, product arrives at finishing station
+Time: 500, assembly starts at finishing station
+Time: 500, part 1 arrives at the main station
+Time: 505, assembly finished at finishing station
+Time: 505, part 1 arrives at the main station
+Time: 510, assembly finished at main assembly station
+Time: 510, assembly starts at main station
+Time: 510, product arrives at finishing station
+Time: 510, assembly starts at finishing station
+Time: 510, part 1 arrives at the main station
+Time: 513, part 1 arrives at the main station
+Time: 515, assembly finished at finishing station
+Time: 520, assembly finished at main assembly station
+Time: 520, assembly starts at main station
+Time: 520, product arrives at finishing station
+Time: 520, assembly starts at finishing station
+Time: 520, part 2 arrives at the finishing station
+Time: 525, assembly finished at finishing station
+Time: 525, part 2 arrives at the finishing station
+Time: 530, assembly finished at main assembly station
+Time: 530, assembly starts at main station
+Time: 530, product arrives at finishing station
+Time: 530, assembly starts at finishing station
+Time: 533, part 2 arrives at the finishing station
+Time: 535, assembly finished at finishing station
+Time: 540, assembly finished at main assembly station
+Time: 540, assembly starts at main station
+Time: 540, product arrives at finishing station
+Time: 540, assembly starts at finishing station
+Time: 541, part 1 arrives at the main station
+Time: 545, assembly finished at finishing station
+Time: 546, part 2 arrives at the finishing station
+Time: 550, assembly finished at main assembly station
+Time: 550, assembly starts at main station
+Time: 550, product arrives at finishing station
+Time: 550, assembly starts at finishing station
+Time: 552, part 0 arrives at the main station
+Time: 554, part 0 arrives at the main station
+Time: 555, assembly finished at finishing station
+Time: 555, part 1 arrives at the main station
+Time: 560, assembly finished at main assembly station
+Time: 560, assembly starts at main station
+Time: 560, product arrives at finishing station
+Time: 560, assembly starts at finishing station
+Time: 562, part 2 arrives at the finishing station
+Time: 565, assembly finished at finishing station
+Time: 567, part 0 arrives at the main station
+Time: 568, part 0 arrives at the main station
+Time: 570, assembly finished at main assembly station
+Time: 570, assembly starts at main station
+Time: 570, product arrives at finishing station
+Time: 570, assembly starts at finishing station
+Time: 573, part 0 arrives at the main station
+Time: 575, assembly finished at finishing station
+Time: 578, part 2 arrives at the finishing station
+Time: 580, assembly finished at main assembly station
+Time: 580, assembly starts at main station
+Time: 580, product arrives at finishing station
+Time: 580, assembly starts at finishing station
+Time: 585, assembly finished at finishing station
+Time: 586, part 0 arrives at the main station
+Time: 587, part 2 arrives at the finishing station
+Time: 590, assembly finished at main assembly station
+Time: 590, assembly starts at main station
+Time: 590, product arrives at finishing station
+Time: 590, assembly starts at finishing station
+Time: 591, part 1 arrives at the main station
+Time: 594, part 2 arrives at the finishing station
+Time: 595, assembly finished at finishing station
+Time: 597, part 2 arrives at the finishing station
+Time: 600, assembly finished at main assembly station
+Time: 600, assembly starts at main station
+Time: 600, product arrives at finishing station
+Time: 600, assembly starts at finishing station
+Time: 602, part 2 arrives at the finishing station
+Time: 605, assembly finished at finishing station
+Time: 606, part 2 arrives at the finishing station
+Time: 607, part 1 arrives at the main station
+Time: 610, assembly finished at main assembly station
+Time: 610, assembly starts at main station
+Time: 610, product arrives at finishing station
+Time: 610, assembly starts at finishing station
+Time: 610, part 0 arrives at the main station
+Time: 615, assembly finished at finishing station
+Time: 615, part 1 arrives at the main station
+Time: 619, part 0 arrives at the main station
+Time: 620, assembly finished at main assembly station
+Time: 620, assembly starts at main station
+Time: 620, product arrives at finishing station
+Time: 620, assembly starts at finishing station
+Time: 622, part 1 arrives at the main station
+Time: 625, assembly finished at finishing station
+Time: 628, part 2 arrives at the finishing station
+Time: 630, assembly finished at main assembly station
+Time: 630, assembly starts at main station
+Time: 630, product arrives at finishing station
+Time: 630, assembly starts at finishing station
+Time: 631, part 1 arrives at the main station
+Time: 635, assembly finished at finishing station
+Time: 636, part 2 arrives at the finishing station
+Time: 640, assembly finished at main assembly station
+Time: 640, assembly starts at main station
+Time: 640, product arrives at finishing station
+Time: 640, assembly starts at finishing station
+Time: 640, part 0 arrives at the main station
+Time: 644, part 1 arrives at the main station
+Time: 645, assembly finished at finishing station
+Time: 649, part 0 arrives at the main station
+Time: 650, assembly finished at main assembly station
+Time: 650, assembly starts at main station
+Time: 650, product arrives at finishing station
+Time: 650, assembly starts at finishing station
+Time: 652, part 1 arrives at the main station
+Time: 655, assembly finished at finishing station
+Time: 660, assembly finished at main assembly station
+Time: 660, assembly starts at main station
+Time: 660, product arrives at finishing station
+Time: 660, assembly starts at finishing station
+Time: 660, part 1 arrives at the main station
+Time: 665, assembly finished at finishing station
+Time: 665, part 0 arrives at the main station
+Time: 670, assembly finished at main assembly station
+Time: 670, assembly starts at main station
+Time: 670, product arrives at finishing station
+Time: 670, assembly starts at finishing station
+Time: 672, part 2 arrives at the finishing station
+Time: 675, assembly finished at finishing station
+Time: 676, part 2 arrives at the finishing station
+Time: 678, part 0 arrives at the main station
+Time: 679, part 2 arrives at the finishing station
+Time: 680, assembly finished at main assembly station
+Time: 680, assembly starts at main station
+Time: 680, product arrives at finishing station
+Time: 680, assembly starts at finishing station
+Time: 682, part 0 arrives at the main station
+Time: 685, assembly finished at finishing station
+Time: 686, part 2 arrives at the finishing station
+Time: 690, assembly finished at main assembly station
+Time: 690, assembly starts at main station
+Time: 690, product arrives at finishing station
+Time: 690, assembly starts at finishing station
+Time: 692, part 0 arrives at the main station
+Time: 694, part 1 arrives at the main station
+Time: 695, assembly finished at finishing station
+Time: 698, part 1 arrives at the main station
+Time: 700, assembly finished at main assembly station
+Time: 700, assembly starts at main station
+Time: 700, product arrives at finishing station
+Time: 700, assembly starts at finishing station
+Time: 702, part 0 arrives at the main station
+Time: 705, assembly finished at finishing station
+Time: 708, part 2 arrives at the finishing station
+Time: 710, assembly finished at main assembly station
+Time: 710, assembly starts at main station
+Time: 710, product arrives at finishing station
+Time: 710, assembly starts at finishing station
+Time: 711, part 0 arrives at the main station
+Time: 714, part 1 arrives at the main station
+Time: 715, assembly finished at finishing station
+Time: 720, assembly finished at main assembly station
+Time: 720, assembly starts at main station
+Time: 720, product arrives at finishing station
+Time: 720, assembly starts at finishing station
+Time: 721, part 1 arrives at the main station
+Time: 725, assembly finished at finishing station
+Time: 726, part 0 arrives at the main station
+Time: 730, assembly finished at main assembly station
+Time: 730, assembly starts at main station
+Time: 730, product arrives at finishing station
+Time: 730, assembly starts at finishing station
+Time: 734, part 2 arrives at the finishing station
+Time: 735, assembly finished at finishing station
+Time: 738, part 1 arrives at the main station
+Time: 740, assembly finished at main assembly station
+Time: 740, assembly starts at main station
+Time: 740, product arrives at finishing station
+Time: 740, assembly starts at finishing station
+Time: 742, part 2 arrives at the finishing station
+Time: 745, assembly finished at finishing station
+Time: 748, part 2 arrives at the finishing station
+Time: 750, assembly finished at main assembly station
+Time: 750, assembly starts at main station
+Time: 750, product arrives at finishing station
+Time: 750, assembly starts at finishing station
+Time: 755, assembly finished at finishing station
+Time: 756, part 0 arrives at the main station
+Time: 760, assembly finished at main assembly station
+Time: 760, assembly starts at main station
+Time: 760, product arrives at finishing station
+Time: 760, assembly starts at finishing station
+Time: 762, part 0 arrives at the main station
+Time: 765, assembly finished at finishing station
+Time: 770, assembly finished at main assembly station
+Time: 770, assembly starts at main station
+Time: 770, product arrives at finishing station
+Time: 770, assembly starts at finishing station
+Time: 770, part 1 arrives at the main station
+Time: 772, part 0 arrives at the main station
+Time: 775, assembly finished at finishing station
+Time: 777, part 0 arrives at the main station
+Time: 778, part 0 arrives at the main station
+Time: 780, assembly finished at main assembly station
+Time: 780, assembly starts at main station
+Time: 780, product arrives at finishing station
+Time: 780, assembly starts at finishing station
+Time: 783, part 0 arrives at the main station
+Time: 784, part 2 arrives at the finishing station
+Time: 785, assembly finished at finishing station
+Time: 785, part 1 arrives at the main station
+Time: 788, part 0 arrives at the main station
+Time: 790, assembly finished at main assembly station
+Time: 790, assembly starts at main station
+Time: 790, product arrives at finishing station
+Time: 790, assembly starts at finishing station
+Time: 794, part 2 arrives at the finishing station
+Time: 795, assembly finished at finishing station
+Time: 800, assembly finished at main assembly station
+Time: 800, assembly starts at main station
+Time: 800, product arrives at finishing station
+Time: 800, assembly starts at finishing station
+Time: 802, part 1 arrives at the main station
+Time: 805, assembly finished at finishing station
+Time: 810, assembly finished at main assembly station
+Time: 810, assembly starts at main station
+Time: 810, product arrives at finishing station
+Time: 810, assembly starts at finishing station
+Time: 810, part 0 arrives at the main station
+Time: 812, part 0 arrives at the main station
+Time: 815, assembly finished at finishing station
+Time: 818, part 2 arrives at the finishing station
+Time: 820, assembly finished at main assembly station
+Time: 820, product arrives at finishing station
+Time: 820, assembly starts at finishing station
+Time: 822, part 0 arrives at the main station
+Time: 825, assembly finished at finishing station
+Time: 829, part 1 arrives at the main station
+Time: 829, assembly starts at main station
+Time: 836, part 2 arrives at the finishing station
+Time: 839, assembly finished at main assembly station
+Time: 839, product arrives at finishing station
+Time: 839, assembly starts at finishing station
+Time: 840, part 2 arrives at the finishing station
+Time: 844, assembly finished at finishing station
+Time: 846, part 2 arrives at the finishing station
+Time: 850, part 1 arrives at the main station
+Time: 850, assembly starts at main station
+Time: 857, part 2 arrives at the finishing station
+Time: 859, part 0 arrives at the main station
+Time: 860, assembly finished at main assembly station
+Time: 860, product arrives at finishing station
+Time: 860, assembly starts at finishing station
+Time: 865, assembly finished at finishing station
+Time: 866, part 1 arrives at the main station
+Time: 866, assembly starts at main station
+Time: 871, part 0 arrives at the main station
+Time: 875, part 0 arrives at the main station
+Time: 876, assembly finished at main assembly station
+Time: 876, product arrives at finishing station
+Time: 876, assembly starts at finishing station
+Time: 880, part 2 arrives at the finishing station
+Time: 881, assembly finished at finishing station
+Time: 883, part 0 arrives at the main station
+Time: 890, part 2 arrives at the finishing station
+Time: 895, part 0 arrives at the main station
+Time: 899, part 2 arrives at the finishing station
+Time: 903, part 1 arrives at the main station
+Time: 903, assembly starts at main station
+Time: 908, part 1 arrives at the main station
+Time: 913, assembly finished at main assembly station
+Time: 913, assembly starts at main station
+Time: 913, product arrives at finishing station
+Time: 913, assembly starts at finishing station
+Time: 918, assembly finished at finishing station
+Time: 923, assembly finished at main assembly station
+Time: 923, product arrives at finishing station
+Time: 923, assembly starts at finishing station
+Time: 928, assembly finished at finishing station
+Time: 1000, part 1 arrives at the main station
+Time: 1000, assembly starts at main station
+Time: 1000, part 1 arrives at the main station
+Time: 1010, assembly finished at main assembly station
+Time: 1010, assembly starts at main station
+Time: 1010, product arrives at finishing station
+Time: 1010, assembly starts at finishing station
+Time: 1015, assembly finished at finishing station
+Time: 1020, assembly finished at main assembly station
+Time: 1020, product arrives at finishing station
+Time: 1020, assembly starts at finishing station
+Time: 1025, assembly finished at finishing station
+
+...All Assembly complete.  Final Summary:
+
+Number of items assembled: 71
+Average assembly time: 335.070423
+Parts remaining in queues:
+Part 0: 11
+Part 1: 0
+Part 2: 2
+Products: 0
+
+End of processing.

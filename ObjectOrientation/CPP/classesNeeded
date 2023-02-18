@@ -1,0 +1,9 @@
+Classes Needed:
+Queue
+Node
+ListItem
+Simulation.h (header file)
+A2main.cpp (main file, not a class)
+OrderedItem -> PriorityQueue
+Event hierarchy
+

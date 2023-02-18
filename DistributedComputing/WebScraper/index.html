@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>3010 Memos</title>
+</head>
+<body>
+	<h1>MEMOS</h1>
+	<button onclick="getMemos()">Refresh</button>
+	<h3>Submit, memos:</h3>
+	<form id="postMemo">
+		<label for="memo">Memo:</label>
+		<input id="memoCreateName" name="name" type="text"><br>
+		<label for="memo">Note:</label>
+		<input id="memoCreateNote" name="note" type="text">
+		<button onclick="postMemo(event); return false">Submit</button>
+	</form>
+	<h3>Update memo:</h3>
+	<form id="putMemo">
+		<label for="memo">Memo:</label>
+		<select id="memoUpdateName" name="id">
+		</select><br>
+		<label for="memo">Note:</label>
+		<input id="memoUpdateNote" name="note" type="text">
+		<button onclick="putMemo(event); return false">Update</button>
+	</form>
+	<table id="memos">
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Note</th>
+			<th>Last Modified</th>
+			<th>Delete?</th>
+		</tr>
+	</table>
+
+	<script>
+		function memoEntryString(id, name, note, session)
+		{
+			return `\
+				<tr class="memo" id="memo${id}" name=${name}>\
+					<th>${id}</th>\
+					<th>${name}</th>\
+					<th>${note}</th>\
+					<th>${session}</th>\
+					<th><button onclick="deleteMemo(${id})">Delete!</button></th>\
+				</tr>`;
+		}
+		function insertMemo({id, name, note, modified})
+		{
+			document.getElementById('memos').innerHTML += memoEntryString(id, name, note, modified);
+			document.getElementById('memoUpdateName').innerHTML += `<option id="memoSelect${id}" value="${id}">${id} - ${name}</option>`;
+		}
+		function memoPosted(event)
+		{
+			if(event.target.status == 201){
+				const res = JSON.parse(event.target.response);
+				insertMemo(res);
+			}
+		}
+		function memoDeleted(event)
+		{
+			if(event.target.status == 200){
+				document.getElementById(`memo${event.target.id}`).parentNode.remove();
+				document.getElementById(`memoSelect${event.target.id}`).remove();
+			}
+		}
+		function memoUpdated(event)
+		{
+			if(event.target.status == 200){
+				document.getElementById(`memo${event.target.id}`).remove();
+				const memo = JSON.parse(event.target.response);
+				memo['name'] = event.target.name;
+				memo['id'] = event.target.id;
+				document.getElementById(`memoSelect${memo.id}`).remove();
+				insertMemo(memo);
+
+			}
+		}
+		function memosReceived(event)
+		{
+			if(event.target.status == 200){
+				document.getElementById("memoUpdateName").innerHTML = "";
+				const currMemos = document.getElementsByClassName('memo');
+				while(currMemos.length > 0)
+				{
+					currMemos[0].parentNode.remove();
+				}
+				for(const row of JSON.parse(event.target.response)){
+					insertMemo(row);
+				}
+			}
+		}
+		function postMemo(event)
+		{
+			const form = new FormData(document.getElementById('postMemo'));
+			var memo = {};
+			form.forEach((value, key) => memo[key] = value);
+
+			var req = new XMLHttpRequest();
+			req.addEventListener("load", memoPosted);
+			req.open("POST", "/api/memo/");
+			req.send(JSON.stringify(memo));
+		}
+		function getMemos()
+		{
+			var req = new XMLHttpRequest();
+			req.addEventListener("load", memosReceived);
+			req.open("GET", "/api/memo/");
+			req.send();
+		}
+		function deleteMemo(id)
+		{
+			var req = new XMLHttpRequest();
+			req.addEventListener("load", memoDeleted);
+			req.open("DELETE", `/api/memo/${id}`);
+			req['id'] = id;
+			req.send();
+		}
+		function putMemo(event)
+		{
+			const form = new FormData(document.getElementById('putMemo'));
+			var memo = {};
+			form.forEach((value, key) => memo[key] = value);
+			const id = memo['id']
+
+			var req = new XMLHttpRequest();
+			req.addEventListener("load", memoUpdated);
+			req.open("PUT", `/api/memo/${id}`);
+			req['id'] = id;
+			req['name'] = document.getElementById(`memo${id}`).getAttribute('name');
+			req.send(JSON.stringify(memo));
+		}
+		document.getElementById('postMemo').addEventListener("submit", postMemo);
+		getMemos();
+	</script>
+</body>
+</html>
